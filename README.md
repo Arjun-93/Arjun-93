@@ -1,4 +1,4 @@
-[![MasterHead]([https://docarray.jina.ai/_images/docarray-vs-banner.gif)](https://arjun-93.github.io/Web_Development/#about](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif))
+[![MasterHead]([https://docarray.jina.ai/_images/docarray-vs-banner.gif])
 # 💫 About Me:
 - 🔭 I’m currently working on a Federated Learning project collaborated with IIT-Delhi<br><br>- 🌱 I’m currently learning "Deep Learning Neural Networks."<br><br>- 👨‍💻 All of my projects are available on my GitHub <br><br>- 💬 Ask me about Machine Learning<br><br>- 📫 How to reach me **arjun20178@iiitd.ac.in**<br>
 
