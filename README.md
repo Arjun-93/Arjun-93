@@ -4,8 +4,8 @@
 <h3>
 <li> Hello 🙌, I'm Arjun  </li>
 <li> 😄 3rd-year Undergraduate student at IIIT Delhi. </li>
-# 💫 About Me:
-- 🔭 I’m currently working on a Federated Learning project collaborated with IIT-Delhi<br><br>
+# 💫 About Me:<br>
+  - 🔭 I’m currently working on a Federated Learning project collaborated with IIT-Delhi<br><br>
   - 🌱 I’m currently learning "Deep Learning Neural Networks."<br><br>
   - 👨‍💻 All of my projects are available on my GitHub <br><br>
   - 💬 Ask me about Machine Learning<br><br>
