@@ -1,9 +1,20 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 <br>
+<h3>
+<li> Hello 🙌, I'm Arjun  </li>
+<li> 😄 3rd-year Undergraduate student at IIIT Delhi. </li>
 # 💫 About Me:
-- 🔭 I’m currently working on a Federated Learning project collaborated with IIT-Delhi<br><br>- 🌱 I’m currently learning "Deep Learning Neural Networks."<br><br>- 👨‍💻 All of my projects are available on my GitHub <br><br>- 💬 Ask me about Machine Learning<br><br>- 📫 How to reach me **arjun20178@iiitd.ac.in**<br>
-
+- 🔭 I’m currently working on a Federated Learning project collaborated with IIT-Delhi<br><br>
+  - 🌱 I’m currently learning "Deep Learning Neural Networks."<br><br>
+  - 👨‍💻 All of my projects are available on my GitHub <br><br>
+  - 💬 Ask me about Machine Learning<br><br>
+  - 📫 How to reach me:
+      <ul>
+      <li> LinkedIn: https://www.linkedin.com/in/arjun-mehra-145993221/</li>
+      <li> Email: arjun20178@iiitd.ac.in </li>
+      </ul>
+</h3>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arjun._mehra) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arjun-mehra-145993221) 
