@@ -15,7 +15,7 @@
 <!-- - 🔭 I’m currently working as an intern at oasis infobyte -->
 - 💫 About Me:
 
-- 🔭 3rd-year Undergraduate student at IIIT Delhi
+- 🔭 Final student at IIIT Delhi
 
 - 🌱 I’m currently learning "Deep Learning Neural Networks
 
