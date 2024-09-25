@@ -15,13 +15,13 @@
 <!-- - 🔭 I’m currently working as an intern at oasis infobyte -->
 - 💫 About Me:
 
-- 🔭 Final year student at IIIT Delhi
+- 🔭 Graduated student from IIIT Delhi
 
-- 🌱 I’m currently learning "Deep Learning Neural Networks
+- 🌱 I’m currently working as Software Trainee Engineer @Digilytics.Ai
 
-- 📫 How to reach me arjun20178@iiitd.ac.in
+- 📫 How to reach me arjunmehra0000@gmail.com
 
-- 💬 Ask me about Machine Learning
+- 💬 Ask me about Machine Learning and Software development
 
 - 👨‍💻 All of my projects are available on my GitHub
 
